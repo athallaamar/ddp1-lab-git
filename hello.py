@@ -1,2 +1,2 @@
-print("Athalla Amar Fikri - 2606806300")
+input("Please enter your name: ")
 
